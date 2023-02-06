@@ -18,3 +18,4 @@ Homework_5_logistic_regression
 https://github.com/steveyuchiliu/IMLP375/blob/main/02_Logistic%20regression%E5%AF%A6%E6%88%B0.ipynb
 
 Homework_5_SVM
+https://github.com/steveyuchiliu/IMLP375/blob/main/SVM%E5%AF%A6%E6%88%B0.ipynb
